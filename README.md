@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dalecampo
-- 👀 I’m interested in game design, 3D renderings, and video editing
+- 👀 I’m interested in game design
 - 🌱 I’m currently learning JavaScript
 
 <!---
